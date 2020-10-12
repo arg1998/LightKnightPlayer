@@ -18,7 +18,7 @@ this app will take in some project files produced by [LightKnight Animator](http
 If you encounter any unusual behavior, just restart the app ;-)
 
 ## Arduino Code Example
-Compile and upload [two_rgb_channels_example.ino](Arduino/two_rgb_channels_example.ino) to your Arduino (Uno R3 preferably) then open a **Two Channels** Animation (Animation with only two distinct LED strips). 
+Compile and upload [two_rgb_channels_example.ino](Arduino/two_rgb_channels_example/two_rgb_channels_example.ino) to your Arduino (Uno R3 preferably) then open a **Two Channels** Animation (Animation with only two distinct LED strips). 
 
 ## Screenshots
 ![](screenshots/01.png)
